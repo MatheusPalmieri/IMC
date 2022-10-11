@@ -14,7 +14,9 @@
  <a href="#autor">Autor</a>
 </p>
 
-<img src="assets/preview.png" width="1366px" align="center">
+<div align="center">
+    <video src="assets/preview.mp4" width="1366px" height="768px" autoplay></video>
+</div>
 
 ---
 
@@ -36,6 +38,11 @@ Execute o comando para inicializar a aplicação
 
 ```sh
 expo start
+```
+ou
+
+```sh
+npm start
 ```
 
 ---
