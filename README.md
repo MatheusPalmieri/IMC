@@ -15,7 +15,9 @@
 </p>
 
 <div align="center">
-    <video src="assets/preview.mp4" width="1366px" height="768px" autoplay></video>
+    <img src="assets/preview00.jpeg" width="200">
+    •••
+    <img src="assets/preview01.jpeg" width="200">
 </div>
 
 ---
