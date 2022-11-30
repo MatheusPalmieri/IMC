@@ -33,7 +33,12 @@ git clone https://github.com/MatheusPalmieri/IMC
 Entre na pasta do projeto e instale as dependências com:
 
 ```sh
+# Instalando o Expo
 npm i -g expo-cli
+
+
+# Instalando as dependências
+npm install
 ```
 
 Execute o comando para inicializar a aplicação
