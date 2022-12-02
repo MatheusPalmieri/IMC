@@ -60,6 +60,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
+- [JavaScript](https://www.javascript.com/)
 
 ---
 
